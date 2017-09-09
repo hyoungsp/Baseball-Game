@@ -1,6 +1,9 @@
 # Baseball-Game
 baseball game with an user (Strike - Ball format)
 
+![baseball game](https://user-images.githubusercontent.com/29385395/30243931-72b0553a-9579-11e7-9c4b-4da70a7cd177.jpg)
+
+
 The game, at first, generate three three random numbers (positive integers) from 1 through 9.
 An user can guess them with total three trials.
 
